@@ -1,0 +1,1 @@
+// This file can be used to export animation assets, e.g., Lottie JSON files.

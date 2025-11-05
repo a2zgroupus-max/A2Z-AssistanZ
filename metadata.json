@@ -1,0 +1,8 @@
+{
+  "name": "A to Z AssistanZ",
+  "description": "An AI-powered legal consultant that can engage in live voice conversations, text chat, and generate legal documents based on user requests.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
